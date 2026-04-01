@@ -4,7 +4,7 @@ A detailed, browser-based interactive checklist for achieving 100% completion in
 
 ## Live Demo
 
-**[View the Checklist](https://butkicker.github.io/Zelda-OOT/OoT_100_Checklist.html)**
+**[View the Checklist](https://butkicker.github.io/Zelda-OOT/)**
 
 ## Features
 
